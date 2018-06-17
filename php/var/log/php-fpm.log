@@ -1,0 +1,175 @@
+[30-Mar-2018 20:54:18] ERROR: No pool defined. at least one pool section must be specified in config file
+[30-Mar-2018 20:54:18] ERROR: failed to post process the configuration
+[30-Mar-2018 20:54:18] ERROR: FPM initialization failed
+[30-Mar-2018 20:57:40] ERROR: No pool defined. at least one pool section must be specified in config file
+[30-Mar-2018 20:57:40] ERROR: failed to post process the configuration
+[30-Mar-2018 20:57:40] ERROR: FPM initialization failed
+[30-Mar-2018 21:01:28] NOTICE: fpm is running, pid 20830
+[30-Mar-2018 21:01:28] NOTICE: ready to handle connections
+[30-Mar-2018 21:32:36] NOTICE: Terminating ...
+[30-Mar-2018 21:32:36] NOTICE: exiting, bye-bye!
+[30-Mar-2018 21:32:45] NOTICE: fpm is running, pid 26672
+[30-Mar-2018 21:32:45] NOTICE: ready to handle connections
+[30-Mar-2018 21:42:43] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[30-Mar-2018 21:42:43] ERROR: FPM initialization failed
+[30-Mar-2018 21:43:43] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[30-Mar-2018 21:43:43] ERROR: FPM initialization failed
+[30-Mar-2018 22:00:09] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[30-Mar-2018 22:00:09] ERROR: FPM initialization failed
+[30-Mar-2018 22:01:26] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[30-Mar-2018 22:01:26] ERROR: FPM initialization failed
+[30-Mar-2018 22:02:57] NOTICE: Terminating ...
+[30-Mar-2018 22:02:57] NOTICE: exiting, bye-bye!
+[30-Mar-2018 22:03:02] NOTICE: fpm is running, pid 26852
+[30-Mar-2018 22:03:02] NOTICE: ready to handle connections
+[30-Mar-2018 22:04:34] NOTICE: Terminating ...
+[30-Mar-2018 22:04:34] NOTICE: exiting, bye-bye!
+[30-Mar-2018 22:04:38] NOTICE: fpm is running, pid 26879
+[30-Mar-2018 22:04:38] NOTICE: ready to handle connections
+[31-Mar-2018 09:00:52] NOTICE: Terminating ...
+[31-Mar-2018 09:00:52] NOTICE: exiting, bye-bye!
+[31-Mar-2018 09:01:01] NOTICE: fpm is running, pid 5352
+[31-Mar-2018 09:01:01] NOTICE: ready to handle connections
+[31-Mar-2018 09:14:15] NOTICE: Terminating ...
+[31-Mar-2018 09:14:15] NOTICE: exiting, bye-bye!
+[31-Mar-2018 09:14:21] NOTICE: fpm is running, pid 7961
+[31-Mar-2018 09:14:21] NOTICE: ready to handle connections
+[31-Mar-2018 22:02:25] NOTICE: Terminating ...
+[01-Apr-2018 09:42:12] NOTICE: fpm is running, pid 4073
+[01-Apr-2018 09:42:12] NOTICE: ready to handle connections
+[01-Apr-2018 23:55:04] NOTICE: Terminating ...
+[01-Apr-2018 23:55:04] NOTICE: exiting, bye-bye!
+[02-Apr-2018 09:49:31] NOTICE: fpm is running, pid 3316
+[02-Apr-2018 09:49:31] NOTICE: ready to handle connections
+[02-Apr-2018 09:53:38] NOTICE: Terminating ...
+[02-Apr-2018 09:53:38] NOTICE: exiting, bye-bye!
+[02-Apr-2018 09:53:57] NOTICE: fpm is running, pid 3377
+[02-Apr-2018 09:53:57] NOTICE: ready to handle connections
+[02-Apr-2018 10:23:30] NOTICE: Terminating ...
+[02-Apr-2018 10:23:30] NOTICE: exiting, bye-bye!
+[02-Apr-2018 10:23:37] NOTICE: fpm is running, pid 5594
+[02-Apr-2018 10:23:37] NOTICE: ready to handle connections
+[03-Apr-2018 01:18:17] NOTICE: Terminating ...
+[03-Apr-2018 09:05:39] NOTICE: fpm is running, pid 2576
+[03-Apr-2018 09:05:39] NOTICE: ready to handle connections
+[03-Apr-2018 12:31:13] NOTICE: Terminating ...
+[03-Apr-2018 12:31:13] NOTICE: exiting, bye-bye!
+[03-Apr-2018 19:43:34] NOTICE: fpm is running, pid 5493
+[03-Apr-2018 19:43:34] NOTICE: ready to handle connections
+[03-Apr-2018 23:28:50] NOTICE: Terminating ...
+[04-Apr-2018 14:31:29] NOTICE: fpm is running, pid 4346
+[04-Apr-2018 14:31:29] NOTICE: ready to handle connections
+[04-Apr-2018 23:56:46] NOTICE: Terminating ...
+[07-Apr-2018 09:03:25] NOTICE: fpm is running, pid 19838
+[07-Apr-2018 09:03:25] NOTICE: ready to handle connections
+[07-Apr-2018 19:55:21] NOTICE: Terminating ...
+[07-Apr-2018 19:55:21] NOTICE: exiting, bye-bye!
+[08-Apr-2018 09:01:59] NOTICE: fpm is running, pid 4005
+[08-Apr-2018 09:01:59] NOTICE: ready to handle connections
+[08-Apr-2018 09:09:09] NOTICE: Terminating ...
+[08-Apr-2018 09:09:09] NOTICE: exiting, bye-bye!
+[08-Apr-2018 09:09:14] NOTICE: fpm is running, pid 4045
+[08-Apr-2018 09:09:14] NOTICE: ready to handle connections
+[09-Apr-2018 00:20:24] NOTICE: Terminating ...
+[09-Apr-2018 00:20:24] NOTICE: exiting, bye-bye!
+[09-Apr-2018 07:15:18] NOTICE: fpm is running, pid 2934
+[09-Apr-2018 07:15:18] NOTICE: ready to handle connections
+[09-Apr-2018 09:29:39] NOTICE: Terminating ...
+[09-Apr-2018 09:29:39] NOTICE: exiting, bye-bye!
+[09-Apr-2018 09:29:57] NOTICE: fpm is running, pid 23259
+[09-Apr-2018 09:29:57] NOTICE: ready to handle connections
+[09-Apr-2018 09:43:26] NOTICE: Terminating ...
+[09-Apr-2018 09:43:26] NOTICE: exiting, bye-bye!
+[09-Apr-2018 09:43:31] NOTICE: fpm is running, pid 5440
+[09-Apr-2018 09:43:31] NOTICE: ready to handle connections
+[09-Apr-2018 09:44:27] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[09-Apr-2018 09:44:27] ERROR: FPM initialization failed
+[09-Apr-2018 09:46:04] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[09-Apr-2018 09:46:04] ERROR: FPM initialization failed
+[09-Apr-2018 09:46:43] NOTICE: Terminating ...
+[09-Apr-2018 09:46:43] NOTICE: exiting, bye-bye!
+[09-Apr-2018 09:46:53] NOTICE: fpm is running, pid 5497
+[09-Apr-2018 09:46:53] NOTICE: ready to handle connections
+[09-Apr-2018 09:52:24] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[09-Apr-2018 09:52:24] ERROR: FPM initialization failed
+[09-Apr-2018 10:40:32] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[09-Apr-2018 10:40:32] ERROR: FPM initialization failed
+[09-Apr-2018 10:40:56] NOTICE: Terminating ...
+[09-Apr-2018 10:40:56] NOTICE: exiting, bye-bye!
+[09-Apr-2018 10:41:01] NOTICE: fpm is running, pid 11005
+[09-Apr-2018 10:41:01] NOTICE: ready to handle connections
+[09-Apr-2018 10:43:12] NOTICE: Terminating ...
+[09-Apr-2018 10:43:12] NOTICE: exiting, bye-bye!
+[09-Apr-2018 10:43:19] NOTICE: fpm is running, pid 13094
+[09-Apr-2018 10:43:19] NOTICE: ready to handle connections
+[09-Apr-2018 13:05:48] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[10-Apr-2018 00:47:51] NOTICE: Terminating ...
+[10-Apr-2018 00:47:51] NOTICE: exiting, bye-bye!
+[10-Apr-2018 10:55:23] NOTICE: fpm is running, pid 4605
+[10-Apr-2018 10:55:23] NOTICE: ready to handle connections
+[11-Apr-2018 02:33:02] NOTICE: Terminating ...
+[11-Apr-2018 09:52:16] NOTICE: fpm is running, pid 3360
+[11-Apr-2018 09:52:16] NOTICE: ready to handle connections
+[11-Apr-2018 13:28:07] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[11-Apr-2018 22:26:08] NOTICE: Terminating ...
+[11-Apr-2018 22:26:08] NOTICE: exiting, bye-bye!
+[12-Apr-2018 09:15:28] NOTICE: fpm is running, pid 3641
+[12-Apr-2018 09:15:28] NOTICE: ready to handle connections
+[12-Apr-2018 19:57:00] NOTICE: Terminating ...
+[12-Apr-2018 19:57:00] NOTICE: exiting, bye-bye!
+[12-Apr-2018 19:57:04] NOTICE: fpm is running, pid 7258
+[12-Apr-2018 19:57:04] NOTICE: ready to handle connections
+[12-Apr-2018 22:46:45] NOTICE: Terminating ...
+[12-Apr-2018 22:46:45] NOTICE: exiting, bye-bye!
+[12-Apr-2018 22:47:07] NOTICE: fpm is running, pid 8540
+[12-Apr-2018 22:47:07] NOTICE: ready to handle connections
+[12-Apr-2018 23:32:54] NOTICE: Terminating ...
+[13-Apr-2018 01:08:16] NOTICE: fpm is running, pid 2527
+[13-Apr-2018 01:08:16] NOTICE: ready to handle connections
+[13-Apr-2018 01:41:47] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[13-Apr-2018 01:49:20] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[13-Apr-2018 01:51:36] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[13-Apr-2018 01:51:45] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[13-Apr-2018 02:14:00] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[13-Apr-2018 02:27:26] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[13-Apr-2018 04:59:12] NOTICE: Terminating ...
+[13-Apr-2018 04:59:12] NOTICE: exiting, bye-bye!
+[13-Apr-2018 09:26:05] NOTICE: fpm is running, pid 3460
+[13-Apr-2018 09:26:05] NOTICE: ready to handle connections
+[13-Apr-2018 15:56:23] NOTICE: Terminating ...
+[13-Apr-2018 15:56:23] NOTICE: exiting, bye-bye!
+[13-Apr-2018 15:56:29] NOTICE: fpm is running, pid 5705
+[13-Apr-2018 15:56:29] NOTICE: ready to handle connections
+[13-Apr-2018 20:08:37] NOTICE: Terminating ...
+[13-Apr-2018 20:08:37] NOTICE: exiting, bye-bye!
+[17-Apr-2018 21:15:46] NOTICE: fpm is running, pid 17132
+[17-Apr-2018 21:15:46] NOTICE: ready to handle connections
+[18-Apr-2018 00:25:28] NOTICE: Terminating ...
+[18-Apr-2018 00:25:28] NOTICE: exiting, bye-bye!
+[26-Apr-2018 09:38:50] NOTICE: fpm is running, pid 3127
+[26-Apr-2018 09:38:50] NOTICE: ready to handle connections
+[26-Apr-2018 11:18:02] NOTICE: Terminating ...
+[26-Apr-2018 11:18:02] NOTICE: exiting, bye-bye!
+[26-Apr-2018 11:18:13] NOTICE: fpm is running, pid 3873
+[26-Apr-2018 11:18:13] NOTICE: ready to handle connections
+[26-Apr-2018 11:30:14] NOTICE: Terminating ...
+[26-Apr-2018 11:30:14] NOTICE: exiting, bye-bye!
+[26-Apr-2018 11:30:20] NOTICE: fpm is running, pid 4002
+[26-Apr-2018 11:30:20] NOTICE: ready to handle connections
+[26-Apr-2018 12:58:01] NOTICE: Terminating ...
+[26-Apr-2018 12:58:01] NOTICE: exiting, bye-bye!
+[26-Apr-2018 12:58:06] NOTICE: fpm is running, pid 11506
+[26-Apr-2018 12:58:06] NOTICE: ready to handle connections
+[26-Apr-2018 13:47:57] NOTICE: Terminating ...
+[26-Apr-2018 13:47:57] NOTICE: exiting, bye-bye!
+[26-Apr-2018 13:48:02] NOTICE: fpm is running, pid 20883
+[26-Apr-2018 13:48:02] NOTICE: ready to handle connections
+[26-Apr-2018 14:26:31] NOTICE: Terminating ...
+[26-Apr-2018 14:26:31] NOTICE: exiting, bye-bye!
+[26-Apr-2018 14:26:35] NOTICE: fpm is running, pid 2290
+[26-Apr-2018 14:26:35] NOTICE: ready to handle connections
+[27-Apr-2018 00:17:17] NOTICE: Terminating ...
+[07-May-2018 11:29:28] NOTICE: fpm is running, pid 19264
+[07-May-2018 11:29:28] NOTICE: ready to handle connections
+[18-May-2018 22:21:19] NOTICE: Terminating ...
+[18-May-2018 22:21:19] NOTICE: exiting, bye-bye!
